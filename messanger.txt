@@ -1,0 +1,9 @@
+Messanger Features:
+
+1.adding profile pictures
+
+2.chatting with friends 
+
+3.sending files like images,audio,video
+
+4.updating current scenarios
