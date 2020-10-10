@@ -4,7 +4,7 @@ Messanger Features:
 
 2.chatting with friends 
 
-3.sending files like images,audio,video
+3.sending files like images,audio,video,Gif
 
 4.updating current scenarios
 
